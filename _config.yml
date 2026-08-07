@@ -1,0 +1,11 @@
+title: ServiceNow Director Portfolio
+description: Executive Platform Strategy, Governance, and Lifecycle Management
+theme: jekyll-theme-cayman
+show_downloads: false
+google_analytics: # Add your tracking ID if desired
+
+# Custom Executive Bio Settings
+author:
+  name: ServiceNow Director
+  role: Enterprise Platform Leader
+  expertise: ITSM | Asset Management | CMDB
